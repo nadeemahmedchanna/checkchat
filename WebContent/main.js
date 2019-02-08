@@ -49,7 +49,7 @@ function openSocket() {
  
     // Create a new instance of the websocket
    // webSocket = new WebSocket("https://" + socket_url + ":" + port + "/webchatserver/chat?name=" + name);
-      webSocket = new WebSocket("https://" + socket_url + "wechatserver/chat?name=" + name);
+      webSocket = new WebSocket("wss://" + socket_url + "/chat?name=" + name);
  
     /**
      * Binds functions to the listeners for the websocket.
