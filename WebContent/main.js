@@ -6,7 +6,7 @@ var name = '';
  
 // socket connection urachal and port
 //var socket_url = '192.168.0.101';
-var socket_url = 'myandroidchat.herokuapp.com';
+var socket_url = 'visichat.herokuapp.com';
 //var port = '8080';
  
 $(document).ready(function() {
