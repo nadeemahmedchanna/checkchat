@@ -1,4 +1,4 @@
-package infi.nadeem.webchatserver;
+//package infi.nadeem.webchatserver;
 
 import org.json.JSONException;
 import org.json.JSONObject;
